@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776762525347",
+    "project_id": "ivymatch-a45fa",
+    "storage_bucket": "ivymatch-a45fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776762525347:android:3fa8041bc4c7ba0e36e116",
+        "android_client_info": {
+          "package_name": "com.example.ivymatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776762525347-12ccmhgepaofcd2bho81na5mg5e2hbnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArD1Z1I527vyue4IEY_nCqKd5VLCG0Nd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776762525347-12ccmhgepaofcd2bho81na5mg5e2hbnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
